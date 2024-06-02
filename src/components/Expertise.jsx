@@ -16,7 +16,7 @@ style={
 className="box-container flex py-16 align-items-center">
     <div className="flex justify-center">{/*text container*/}
     <div className="w-2/3 text-center space-y-3"><h1 className="text-4xl text-white font-semibold">I have command in these technologies</h1>
-    <p className="text-white">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum esse explicabo eum cum hic sequi harum, voluptate quaerat vero. Libero!
+    <p className="text-white">Expertise in Java, HTML, CSS, JavaScript, React.js, Node.js, SQL, and Tailwind CSS is invaluable. Java provides robust backend capabilities. HTML structures web content, while CSS styles it. 
         <button className="text-1xl px-3 py-2 bg-orange-600 rounded-full shadow-lg">Hire me</button>
     </p>
     </div>
@@ -31,7 +31,7 @@ className="box-container flex py-16 align-items-center">
     <p className="bg-gray-400 w-fit px-3 py-2 mt-2 hover:bg-orange-400 cursor-pointer rounded-full">Node.js</p>
     <p className="bg-gray-400 w-fit px-3 py-2 mt-2 hover:bg-orange-400 cursor-pointer rounded-full">C</p>
     <p className="bg-gray-400 w-fit px-3 py-2 mt-2 hover:bg-orange-400 cursor-pointer rounded-full">SQL</p>
-    <p className="bg-gray-400 w-fit px-3 py-2 mt-2  hover:bg-orange-400 cursor-pointer rounded-full">React.js</p>
+    <p className="bg-gray-400 w-fit px-3 py-2 mt-2 hover:bg-orange-400 cursor-pointer rounded-full">React.js</p>
     <p className="bg-gray-400 w-fit px-3 py-2 mt-2 hover:bg-orange-400 cursor-pointer rounded-full">TailwindCSS</p>
 
     

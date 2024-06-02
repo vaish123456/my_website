@@ -20,7 +20,7 @@ const Services=()=>{
 
 <h1 className="text-3xl">Front-End Development</h1>
     <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore ipsum aliquid quo odit, est saepe modi laudantium sint tenetur quos?
+    Front-end development focuses on creating the visual and interactive aspects of websites. It involves using HTML for structure, CSS for styling, and JavaScript for interactivity. Front-end developers ensure that websites are user-friendly, responsive, and visually appealing. 
     </p>
     <button className="cursor-pointer px-3 py-2 bg-orange-600 rounded-full shadow-lg">Check here</button>
 </div>
@@ -29,7 +29,7 @@ const Services=()=>{
 
 <h1 className="text-3xl">Back-End Development</h1>
     <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore ipsum aliquid quo odit, est saepe modi laudantium sint tenetur quos?
+    Backend development focuses on server-side logic, databases, and APIs. It involves using languages like Node.js, Python, or Java for creating robust and scalable applications. Backend developers ensure efficient data processing, user authentication, and server communication. They work with databases like MySQL, MongoDB
     </p>
     <button className=" cursor-pointer px-3 py-2 bg-orange-600 rounded-full shadow-lg">Check here</button>
 
@@ -39,7 +39,7 @@ const Services=()=>{
 
 <h1 className="text-3xl">Data Structure & Algorithms</h1>
     <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore ipsum aliquid quo odit, est saepe modi laudantium sint tenetur quos?
+    Data structures and algorithms (DSA) are essential for solving complex problems efficiently. They involve organizing data and implementing methods for data manipulation and retrieval. Mastery of DSA allows developers to optimize performance and ensure code efficiency.
     </p>
     <button className=" cursor-pointer px-3 py-2 bg-orange-600 rounded-full shadow-lg">Check here</button>
 </div>

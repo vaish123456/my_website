@@ -40,7 +40,7 @@ return()=>{
         <h1 className="text-5xl font-bold">Myself Vaishnavi.</h1>
         <h2 className=" text-3xl font-semibold"> And,I am  <span ref={el}></span></h2>
         
-        <p className="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quidem earum architecto dicta labore? Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quidem earum architecto dicta labore?Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quidem earum architecto dicta labore? Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quidem earum architecto dicta labore?Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quidem earum architecto dicta labore?.</p>
+        <p className="">My name is Vaishnavi, and I have a strong command of front-end development, back-end development, and data structures and algorithms. I am currently a B.Tech third-year student at KIET Group of Institutions. I actively work on various projects, applying my skills to create full-stack applications. Participation in coding competitions and hackathons helps me refine my abilities. Managing academics with project work is crucial, and I strive to excel in both. I am focused on gaining practical experience through internships, which are vital for my career.</p>
         <div className="icons-container flex space-x-8">
         <a className="hover:bg-orange-600 cursor-pointer px-3 py-3 w-16 h-16 rounded-full flex justify-center items-center bg-gray-800"><i class="fa-brands text-3xl text-white fa-facebook"></i></a>
         <a className="hover:bg-orange-600 cursor-pointer px-3 py-3 w-16 h-16 rounded-full flex justify-center items-center bg-gray-800"><i class="fa-brands text-3xl  text-white fa-instagram"></i></a>
